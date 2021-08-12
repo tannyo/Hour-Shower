@@ -55,7 +55,7 @@ When you have completed your shower.
 
 Turn off the 12v DC source.
 
-You can dump the half gallon of water into your gray tank or save the recycled shower water to wash your solar cells.
+You can dump the half gallon of water into your gray tank or save the recycled shower water to wash your solar cells. I would not reuse the recirculated water past a single shower. Even with the filter eventually the stuff that is left will overwhelm the water and it will not be clean. This has happened with people who reuse the shower water that has been recirculated over and over again. Eventually you'll have to throw out the recirculated water. 
 
 ## Diagram 
 
