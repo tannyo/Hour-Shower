@@ -51,6 +51,10 @@ When using the hour shower make sure that you use a neutralizing/biodegradable s
 
 - Puracy Natural Body Wash, Bergamot & Sandalwood, Skin Softening Bath & Shower Gel for Men and Women with Coco Glycinate, 16 Fl Oz (2-Pack) https://www.amazon.com/dp/B07QHGS28Q/ref=cm_sw_r_cp_api_glt_fabc_00T273Q45NB5HJ9CTXNJ?_encoding=UTF8&psc=1
 
+I called Puracy and inquired as to whether the other products they have which include shampoo and conditioner are neutralizing and biodegradable. Here's the answer
+
+>All of our products are plant-based, biodegradable and safe for greywater and septic systems. They should all work well for a recycling shower!
+
 When you have completed your shower. 
 
 Turn off the 12v DC source.
