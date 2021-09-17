@@ -3,13 +3,27 @@
 
 ## Why
 
-When Boondocking without a connection to water any water you have is valuable and in low supply. One gallon of water weighs 8.34 pounds. If you have a large 40 gallon water tank that will be 333.6 pounds. That's a lot of weight to carry around. The problem is you will most likely need more than 40 gallons of water if you take showers.
+When Boondocking without a connection to water, any water you have is valuable and in low supply. One gallon of water weighs 8.34 pounds. If you have a 40 gallon water tank (large for a van) that will be 333.6 pounds. That's a lot of weight to carry around in a van or RV. The problem is you will most likely need more than 40 gallons of water if you take showers.
 
 If you take a navy shower where you wet yourself down, pause the flow of water, soap up, then rinse off you're using about 3.5 gallons of water for each shower. More if you wash your hair. That's around 11 showers or less if you have a 40 gallon tank. If there are two of you that's around 5 days of showers. The problem is that you don't just use your water for showers. You wash dishes, your hands, you drink water, your pets drink water, you wash your pets with water, and more. 
 
 If you decrease your shower water usage from 3.5 gallons of water for each navy shower down to a half gallon per shower, for two people that's a gallon per day (less if you share a half gallon of water). Now you have 40 days of showering for two people with a 40 gallon freshwater tank. That frees up 3 gallons of water that you would use if you took a navy shower for other uses. 
 
-The hour shower is a filtered recirculating water shower that allows you to take long luxurious clean hot showers while reducing your water usage, allowing you to stay off grid longer without having to refill your freshwater tank.
+The Heated Hour Shower uses filtered recirculating water that allows you to take long clean hot showers while reducing your water usage, allowing you to stay off grid longer without having to refill your freshwater tank. 
+
+## The 4 Secrets to an Easy to Maintain Recirculating Shower
+
+The documented maintenance procedures with other recirculating showers include cleaning 3 to 7 filters every 3 to 7 days. The stored recirculated water has to be replaced at least once a week. The many filters used in the systems have to be replaced, usually including a very expensive ultraviolet light. There's a lot of maintenance and expense involved. The solution is to simplify and implement the following four suggestions.
+
+1. **Never store recirculated water!** This one item is the reason why I believe so many recirculating showers require so much maintenance and fail. Stored recirculated water requires more powerful pumps, more filters, and more weight which equals more maintenance.
+
+2. **Two filters.** One is a screen to capture hair and larger items. The other filter is the same type used to filter water that would go into your freshwater tank. More filters in the system require more powerful pumps and more water for each shower. 
+
+3. **Always use naturalizing/biodegradable products in the shower.** Add 1 teaspoon of Epson salt to get rid of soapy suds. *Anything with petroleum in it or other non-biodegradable  ingredients will clog filters.* This is one reason I believe many recirculating shower systems can be high maintenance. It’s very important.
+
+4. **Keep the plumbing as short as possible.** The longer the plumbing, the more water you need to use. This DIY system uses 1/2 gallon of water for each shower which is then sent to the grey water tank when the shower is completed. 
+
+By following these suggestions my friends tell me that in their DIY build their filter hasn’t had to be cleaned after over two months of daily use. They keep checking and every time they’ve checked so far the filter is clean. 
 
 ## Partial List of Parts
 
@@ -45,9 +59,9 @@ Add 1 teaspoon of Epson salt to the water. This will get rid of the suds.
 
 Turn on the 12v DC source.
 
-Take your shower for as long as you have 12 V and heated fluid source.
+Take your shower for as long as you have 12 V and a heated fluid source.
 
-When using the hour shower make sure that you use a neutralizing/biodegradable soap that does not contain any petroleum products. This will also help the filter to last longer before the need to be replaced.
+When using the hour shower make sure that you use a neutralizing/biodegradable soap that does not contain any petroleum products. This will help the filter last longer before needing to be replaced.
 
 - Puracy Natural Body Wash, Bergamot & Sandalwood, Skin Softening Bath & Shower Gel for Men and Women with Coco Glycinate, 16 Fl Oz (2-Pack) https://www.amazon.com/dp/B07QHGS28Q/ref=cm_sw_r_cp_api_glt_fabc_00T273Q45NB5HJ9CTXNJ?_encoding=UTF8&psc=1
 
